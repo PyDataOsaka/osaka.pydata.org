@@ -17,19 +17,11 @@ dates:
 location:
 
 greeting:
-  title: About PyData
+  title: PyData Osakaについて
   text:
-    PyData is an educational program of NumFOCUS, a 501(c)3 non-profit organization in the United States.
-    PyData provides a forum for the international community of users and developers of data analysis tools to
-    share ideas and learn from each other.<br /><br />
-
-    The global PyData network promotes discussion of best practices, new approaches,
-    and emerging technologies for data management, processing, analytics, and visualization.
-    PyData communities approach data science using many languages, including (but not limited to) Python, Julia, and R.<br /><br />
-
-    The PyData Code of Conduct governs this conference. To discuss any issues or concerns relating to the code of
-    conduct or the behavior of anyone at a PyData conference (or meetup), please contact NumFOCUS Executive Director 
-    Leah Silen (+1 512-222-5449; leah@numfocus.org ) or the local organisers at eindhoven@pydata.org.
+    PyData Osakaはデータエンジニアやデータサイエンティストのコミュニティです。
+    このウェブサイトでは、大阪でのPyData関連の活動の概要を説明しています。
+    私たちの取り組みに参加し、大阪で強力なPyDataコミュニティを構築することをサポートしてください！<br /><br />
 
 social:
   twitter: https://twitter.com/pydataosaka
